@@ -1,0 +1,4 @@
+#print(GOD)
+#""
+print("GOD")
+    
