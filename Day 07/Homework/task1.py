@@ -5,4 +5,4 @@
 
 my_favourite_chocolate = "kitkat"   
 my_age = "7"
-print(my_age+"        "+my_favourite_chocolate)
+print(my_age+" "+my_favourite_chocolate)
